@@ -1,0 +1,50 @@
+button#read{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 16px;
+        font-weight:bolder;
+        text-align: center;
+        color: white;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius:5px;
+        padding: 5px 5px;
+        background-color: black;
+        /* background-color: rgb(201, 78, 30); */
+}
+h1{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+table{
+    margin-left: 200px;
+    border-collapse: collapse;
+}
+#title{
+    background-color: black;
+    height: 80px;
+}
+th,td{
+    padding-left:40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border:1px solid rgb(218, 226, 228);
+    display:flexbox;
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+}
+td{
+    text-align:center;
+    color: black;
+    /* color: white; */
+}
+
+button a{
+    text-decoration: none;
+    color:white;
+}
+
+svg{
+    width:20px;
+    color: chartreuse;
+}
